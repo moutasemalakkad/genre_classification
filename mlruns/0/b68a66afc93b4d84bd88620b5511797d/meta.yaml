@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/b68a66afc93b4d84bd88620b5511797d/artifacts
+end_time: 1668875644087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b68a66afc93b4d84bd88620b5511797d
+run_name: classy-mare-941
+run_uuid: b68a66afc93b4d84bd88620b5511797d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668875638017
+status: 4
+tags: []
+user_id: moutasemhome
