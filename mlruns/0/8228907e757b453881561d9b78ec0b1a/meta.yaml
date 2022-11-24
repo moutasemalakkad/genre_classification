@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/8228907e757b453881561d9b78ec0b1a/artifacts
+end_time: 1668950317754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8228907e757b453881561d9b78ec0b1a
+run_name: skittish-sow-711
+run_uuid: 8228907e757b453881561d9b78ec0b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668950310205
+status: 4
+tags: []
+user_id: moutasemhome

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/1816e52f6f2041818e06cdf831d27d1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1816e52f6f2041818e06cdf831d27d1d
+run_name: vaunted-shoat-170
+run_uuid: 1816e52f6f2041818e06cdf831d27d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668952257450
+status: 1
+tags: []
+user_id: moutasemhome

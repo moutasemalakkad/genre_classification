@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/808736244e3d4c0e83d805baf32dd709/artifacts
+end_time: 1668950415643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 808736244e3d4c0e83d805baf32dd709
+run_name: bustling-shoat-172
+run_uuid: 808736244e3d4c0e83d805baf32dd709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668950407652
+status: 4
+tags: []
+user_id: moutasemhome

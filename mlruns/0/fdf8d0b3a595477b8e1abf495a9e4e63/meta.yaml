@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/fdf8d0b3a595477b8e1abf495a9e4e63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdf8d0b3a595477b8e1abf495a9e4e63
+run_name: masked-snake-882
+run_uuid: fdf8d0b3a595477b8e1abf495a9e4e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668952434148
+status: 1
+tags: []
+user_id: moutasemhome

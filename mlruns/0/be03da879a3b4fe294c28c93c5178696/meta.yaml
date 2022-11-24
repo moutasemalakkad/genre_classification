@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/be03da879a3b4fe294c28c93c5178696/artifacts
+end_time: 1668949942457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be03da879a3b4fe294c28c93c5178696
+run_name: puzzled-finch-958
+run_uuid: be03da879a3b4fe294c28c93c5178696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668949795501
+status: 4
+tags: []
+user_id: moutasemhome

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/749547357e974721a59f677d79c9a888/artifacts
+end_time: 1668949752208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 749547357e974721a59f677d79c9a888
+run_name: rogue-seal-157
+run_uuid: 749547357e974721a59f677d79c9a888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668949742400
+status: 4
+tags: []
+user_id: moutasemhome

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/e2f5f953d6d84a5a888ec587009f0bbd/artifacts
+end_time: 1668950284004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2f5f953d6d84a5a888ec587009f0bbd
+run_name: clumsy-bee-310
+run_uuid: e2f5f953d6d84a5a888ec587009f0bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668950275907
+status: 4
+tags: []
+user_id: moutasemhome

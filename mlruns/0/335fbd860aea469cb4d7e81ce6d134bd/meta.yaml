@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/335fbd860aea469cb4d7e81ce6d134bd/artifacts
+end_time: 1668952114414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 335fbd860aea469cb4d7e81ce6d134bd
+run_name: adaptable-rat-346
+run_uuid: 335fbd860aea469cb4d7e81ce6d134bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668952019785
+status: 4
+tags: []
+user_id: moutasemhome

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moutasemhome/code/ai/mlops/genre_classification/mlruns/0/54f0306328e84b0f83ce4f528d5086d7/artifacts
+end_time: 1668950283690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 54f0306328e84b0f83ce4f528d5086d7
+run_uuid: 54f0306328e84b0f83ce4f528d5086d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668950280137
+status: 4
+tags: []
+user_id: moutasemhome
